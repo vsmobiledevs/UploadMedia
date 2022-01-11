@@ -1,0 +1,7 @@
+//Types for Login
+export const UPLOAD_DATA_REQUEST = 'UPLOAD_DATA_REQUEST';
+export const UPLOAD_DATA_SUCCESS = 'UPLOAD_DATA_SUCCESS';
+export const UPLOAD_DATA_FAILURE = 'UPLOAD_DATA_FAILURE';
+
+// loading
+export const SET_UPLAOD_LOADER = 'SET_UPLAOD_LOADER';
